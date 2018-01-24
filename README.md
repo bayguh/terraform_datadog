@@ -1,4 +1,4 @@
-# datadog monitorsを管理するterraformコードのテンプレート
+# datadog dashboards,monitorsを管理するterraformコードのテンプレート
 
 terraform version: 0.11.2
 
